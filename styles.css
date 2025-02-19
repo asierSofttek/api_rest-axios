@@ -1,0 +1,30 @@
+#result{
+    margin: 2rem 0;
+}
+label{
+    display: block;
+    margin-bottom: .5rem;
+}
+.card{
+    border: solid 2px #ccc;
+    border-radius: 10px;
+    width: 200px;
+    margin:2rem 0;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card p{
+    margin: .5rem 0;
+}
+
+.error{
+    color: #cc3d3d;
+
+}
